@@ -1,4 +1,5 @@
-#Создай собственный Шутер!
+#Создай собственный космический Шутер!
+#Create your own space Shooter!
 from pygame import *
 from random import randint
 from time import time as timer
